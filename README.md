@@ -1,2 +1,2 @@
 # ApiNotes
-API development in Visual Studio with Database SQl Server and Frontend in Visual Code using Html5, Javascript and CSS3
+API development in Visual Studio with Database SQL Server and Frontend in Visual Code using Html5, Javascript and CSS3
